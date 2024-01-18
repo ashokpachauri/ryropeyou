@@ -1,0 +1,213 @@
+.osahan-post-header .font-weight-bold .text-truncate{
+	color:rgba(0,0,0,.9) !important;
+	font-size:16px !important;
+}
+.osahan-post-body p{
+	font-size:14px !important;
+	color:rgba(0,0,0,.9) !important;
+}
+.text-gray-500{
+	color:#707073 !important;
+	font-size:15px !important;
+}
+.like-stat{
+	font-size:14px !important;
+	color:rgba(0,0,0,.9) !important;
+}
+.like-details{
+	font-size:14px !important;
+	color:rgba(0,0,0,.9) !important;
+}
+.dropdown-toggle::after{
+	display:none;
+}
+
+.ml-auto .dropdown-toggle i{
+	font-size:15px !important;
+}
+@media screen and (max-device-width: 768px) {
+  .osahan-post-header .font-weight-bold .text-truncate{
+		color:rgba(0,0,0,.9) !important;
+		font-size:50px !important;
+	}
+	.osahan-post-body p{
+		font-size:40px !important;
+		color:rgba(0,0,0,.9) !important;
+		line-height:50px;
+		margin-top:15px;
+		margin-bottom:15px;
+	}
+	.text-gray-500{
+		color:#707073 !important;
+		font-size:35px !important;
+		line-height:50px;
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+	.like-stat{
+		font-size:35px !important;
+		color:rgba(0,0,0,.9) !important;
+	}
+	.like-details{
+		font-size:35px !important;
+		color:rgba(0,0,0,.9) !important;
+	}
+	.container{
+		min-width:100% !important;
+		padding:35px !important;
+		margin:0px !important;
+	}
+	body{
+		font-size:35px !important;
+		line-height:50px;
+	}
+	.dropdown-list-image {
+		position: relative;
+		height: 5rem; 
+		width: 5rem; 
+	}
+	.dropdown-list-image .rounded-circle{
+		height: 5rem; 
+		width: 5rem; 
+	}
+	.dropdown-list-image .status-indicator
+	{
+		height: 1.5rem; 
+		width: 1.5rem; 
+	}
+	.osahan-line-tab .nav-link{
+		font-size:45px;
+	}
+	textarea.form-control{
+		font-size: 40px;
+		margin-top:10px;
+	}
+	.osahan-slider-item button{
+		font-size:35px;
+	}
+	.quote_slider button.slick-prev{
+		margin-top:35px;
+	}
+	.quote_slider button.slick-next{
+		margin-top:35px;
+	}
+	.quote_slider button.slick-prev:before{
+		font-size:50px;
+	}
+	.quote_slider button.slick-next:before{
+		font-size:50px;
+	}
+	/*.osahan-slider button.slick-prev{
+		margin-top:35px;
+	}
+	.osahan-slider button.slick-next{
+		margin-top:35px;
+	}*/
+	.osahan-slider button.slick-prev:before{
+		font-size:50px;
+	}
+	.osahan-slider button.slick-next:before{
+		font-size:50px;
+	}
+	.osahan-slider .slick-track{
+		min-height:400px;
+	}
+	aside{
+		display:none;
+	}
+	.like-details1{
+		font-size:35px !important;
+	}
+	.like-details{
+		font-size:35px !important;
+	}
+	.ru-reaction-box{
+		font-size:40px !important;
+	}
+	.like-btn-emo{
+		width: 40px;
+		height: 40px;
+	}
+	.ml-3 button{
+		font-size:35px;
+	}
+	.text-truncate .small{
+		font-size:35px;
+	}
+	.ml-auto .dropdown-toggle{
+		font-size:35px;
+	}
+	.ml-auto .dropdown-toggle i{
+		font-size:45px !important;
+	}
+	.ml-auto .dropdown-menu li i{
+		font-size:35px !important;
+	}
+	.compose_post{
+		margin-top:70px !important;
+	}
+	.dropdown-toggle::after{
+		display:none;
+	}
+	.dropdown-menu-right{
+		min-width:300px;
+	}
+	.dropdown-item{
+		min-width:300px;
+		font-size:40px;
+	}
+	.comment_button_custom{
+		width:75px;
+	}
+	.feelings-box{
+		width:580px !important;
+		height: 90px !important;
+		border:2px solid gray;
+	}
+	.feeling{
+		width:60px;
+		height:60px;
+		margin-right:10px !important;
+	}
+	.feeling-like {
+	  left: 20px;
+	}
+
+	.feeling-superlike {
+	  left: 100px;
+	}
+
+	.feeling-thoughtful {
+	  left: 180px;
+	}
+
+	.feeling-loved-it {
+	  left: 260px;
+	}
+
+	.feeling-describe-plz {
+	  left: 345px;
+	}
+
+	.feeling-bang-on {
+	  left: 420px;
+	}
+	.feeling-boring {
+	  left: 500px;
+	}
+	.osahan-post-body{
+		padding-top:30px;
+		padding-bottom:30px;
+		
+	}
+	.ru-reaction-box{
+		margin-top:-25px;
+	}
+	.ru-reaction-box-comment{
+		margin-top:15px;
+	}
+	.ru-reaction-box-parent{
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+}
